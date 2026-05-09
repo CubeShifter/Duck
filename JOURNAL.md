@@ -27,3 +27,14 @@ I used the hackclub guides and starting getting the basics of the boards down an
 
 **Total time spent: 30 mins**
 
+# May 8th: Made the USB, Oscillator and started on the Flash
+
+The hackclub guide is so nice, I made a lil oscillator thing which taught me what an oscialltor is also <img width="1442" height="604" alt="Screenshot 2026-05-08 at 9 50 22 PM" src="https://github.com/user-attachments/assets/e2151355-b781-43ee-9df8-e0e8da8898fe" />. I also made a usb port thing so my circuit will have usb power, and I will implement battery charging later.![Uploading Screenshot 2026-05-08 at 9.54.40 PM.jpg…]()
+<img width="1322" height="812" alt="Screenshot 2026-05-08 at 9 51 22 PM" src="https://github.com/user-attachments/assets/11a59467-5296-4c17-ac33-b82537837645" />
+Didnt really get that far on the flash, but I know how it works now.
+
+
+
+
+**Total time spent: 1 hour**
+
