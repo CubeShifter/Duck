@@ -38,3 +38,11 @@ Didnt really get that far on the flash, but I know how it works now.
 
 **Total time spent: 1 hour**
 
+# May 9th-10th: Finished Flash, Researched audio/battery charging, started on audio.
+
+So I finished the flash, and thats all for the Hackclub guides.<img width="762" height="534" alt="Screenshot 2026-05-12 at 6 30 22 PM" src="https://github.com/user-attachments/assets/f540234d-d435-4200-8e12-70f12de1ceed" /> Then I looked at how some circuts use audio and battery, gave up on battery because it confused me and focused on audio. For audio I first learnt which chip I want to use, the MAX98375A. I started looking at the datasheets that confused me, so I found a prebuilt board that makes it easier to interface with the chip and copied the schematic for it. W adafruit.<img width="530" height="632" alt="Screenshot 2026-05-12 at 7 01 19 PM" src="https://github.com/user-attachments/assets/7c97c4d5-d76a-4ffb-b81d-c27da1b52145" /> I did learn how i2s works
+
+
+
+**Total time spent: 2 hours 20 mins**
+
