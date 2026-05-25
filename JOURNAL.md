@@ -72,6 +72,8 @@ This was really annoying. I first of all imported all the parts into the the foo
 # May 25th: I worked on this journal.
 Whoa this is so meta, I worked really hard and forgot about the journal but I updated it
 
+**Total time spent: 50 mins**
+
 
 
 
