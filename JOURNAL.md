@@ -86,6 +86,22 @@ I had to redo the orientation because I was trying to put on caps which i got ha
 This is really short journal, but with the help of claude i figured out how to do the lipo. I thought that I can just do around a 1.25 cube inch space, but i can do more using the pythagorem theorum. i could theoretically get around a 1.4 inch big one. I decided to get this from adafruit because reverse polarity and also I actually trust that company.
 **Total time spent:15 mins**
 
+# May 28th: I figured out which lipo I was gonna use.
+This is really short journal, but with the help of claude i figured out how to do the lipo. I thought that I can just do around a 1.25 cube inch space, but i can do more using the pythagorem theorum. i could theoretically get around a 1.4 inch big one. I decided to get this from adafruit because reverse polarity and also I actually trust that company.
+**Total time spent:15 mins**
+
+# May 28th: Started putting caps in place.
+So I started laying out some of the caps where they should go. I was a bit confused on where some of the caps should go, but claude was aura. I put probably half of the caps on there and got the orientation correctly. While doing this I was also planning out how my circuit will flow.<img width="1004" height="936" alt="Screenshot 2026-05-31 at 3 00 47 PM" src="https://github.com/user-attachments/assets/bf44bbc2-47a3-4c9e-bbc1-6fceb336facd" /> Imagine this but with half the caps and resistors on the side and no wires.
+
+**Total time spent:30 mins**
+
+
+# May 29th: Started putting the other caps and changed the regulator.
+I had to make some updates to the regulator and change it to an ap 2112k. this was actually much better and it had a smaller form factor. I also tried to get the usb wiring but didnt figure out how to tune the track lengths. I also tried to wire some other things but then realized I didnt have caps so that was a bad idea. Either way that was really unproductive but atleast I have a better regulator that also works fine with me battery. I guess ill just show the updated schametics for my image. Mraowr<img width="1426" height="832" alt="Screenshot 2026-05-31 at 4 05 47 PM" src="https://github.com/user-attachments/assets/8c892b62-e706-464f-80a7-def548051acc" />
+
+**Total time spent:30 mins**
+
+
 
 
 
