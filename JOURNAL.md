@@ -74,6 +74,9 @@ Whoa this is so meta, I worked really hard and forgot about the journal but I up
 
 **Total time spent: 50 mins**
 
+# May 26th: I worked on the schematic layout.
+So I started reimporting the parts and started placing them. I had to play around with where everything goes as the keyboard switch and led were in the middle, so everything had to go around them. The keyboard switch and led were also really annoying to position, but after a bit of trial and error and looking at other pcbs i got it working. While placing the parts, I had to put into consideration what things should be next to each other. The image is a more updating schematic with better placements and positioned caps and wiring which happenend later. <img width="960" height="820" alt="Screenshot 2026-05-31 at 2 14 33 PM" src="https://github.com/user-attachments/assets/b38b01b2-8c82-422f-8915-d22be81a182c" />
+**Total time spent: 1 hour 30 mins**
 
 
 
