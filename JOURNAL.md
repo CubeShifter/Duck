@@ -102,6 +102,13 @@ I had to make some updates to the regulator and change it to an ap 2112k. this w
 **Total time spent:30 mins**
 
 
+# July 18th: its been a while
+havent updated this in a while, and i didnt really do anything yet. I just want to say im back, and gonna wrap this up in the next 5 days. This time im gonna use a 4 layer pcb to keep my traces much cleaner, and now i know a lot of cad so i can do cool stuff. thats all i wanted to say, meow
+
+
+
+**Total time spent:0 mins**
+
 
 
 
