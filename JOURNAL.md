@@ -110,6 +110,20 @@ havent updated this in a while, and i didnt really do anything yet. I just want 
 **Total time spent:0 mins**
 
 
+# July 24th: its been a while
+So well two of these hours werent logged, but i kinda finished the pcb, i redid all of the wiring and made it four layer, and made the the differential pairs work better. this was actually pretty fun and yeah it was basically building a tiny devboard with a keyboard switch and speaker thingy. idk what else to say 4 layers made it sooo much easier.
+
+
+<img width="1738" height="1266" alt="Screenshot 2026-07-24 at 8 31 25 PM" src="https://github.com/user-attachments/assets/1fbd06b5-d07e-4a6a-8a53-9a35aa1231af" />
+<img width="1456" height="1272" alt="Screenshot 2026-07-24 at 8 31 07 PM" src="https://github.com/user-attachments/assets/62a32f86-2828-45ab-ad45-cf41c3cc2a34" />
+
+
+
+**Total time spent:  4 hours **
+
+
+
+
 
 
 
