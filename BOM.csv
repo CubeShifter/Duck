@@ -1,5 +1,7 @@
-Name,Usecase,Quantity,Price(USD),Link
+Name,Usecase,Quantity,Unit Price(USD),Link
 RP2040, Micrcontroller, 1, 0.99, https://www.lcsc.com/product-detail/C2040.html?s_z=n_q_t_rp2040&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=FVJcVF1UE1MNAwcCRlRfBgJeQlANUFIEQlJZA1UARFIxVlNeQ1hbVFBfRVNYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNdUFdXTldADxALGw%3D%3D
 YXC Crystal Oscillators X322512MSB4SI, Oscillator, 1, 0.48, https://www.lcsc.com/product-detail/C9002.html?s_z=n_q_C9002&globalKeyword=C9002
 Korean Hroparts Elec TYPE-C-31-M-12, USBC thingy, 1, 0.85, https://www.lcsc.com/product-detail/C165948.html?s_z=n_q_C165948&globalKeyword=C165948
-
+W25Q128JVS, Flash Chip, 1, 2.5, https://www.lcsc.com/product-detail/C97521.html?s_z=n_q_W25Q128JVS&spm=wm.fly.bg.0.xh&lcsc_vid=FVJcVF1UE1MNAwcCRlRfBgJeQlANUFIEQlJZA1UARFIxVlNeQ1hXUFNXT1FYXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRldbXlBeWQkaCgg%3D
+XUNPU TS-1088-AR02016, Reset Button, 1, 0.05, https://www.lcsc.com/product-detail/C720477.html?s_z=n_q_C720477&globalKeyword=C720477
+NCP1117-3.3_SOT223, 3.3v regulator, 1 , 0.032, https://www.lcsc.com/product-detail/C20546.html?s_z=n_q_p_NCP1117-3.3_SOT223&spm=wm.ssy.bg.0.xh&lcsc_vid=FVJcVF1UE1MNAwcCRlRfBgJeQlANUFIEQlJZA1UARFIxVlNeQ1hXXlZWRFlfUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRVlWSQwSGg0%3D
