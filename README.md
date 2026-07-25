@@ -17,4 +17,5 @@ I foget what its called(Dont mind the drc errors i forgot to rerun it)
 
 <img width="1534" height="1286" alt="Screenshot 2026-07-24 at 8 39 43 PM" src="https://github.com/user-attachments/assets/30d55d5c-3ee3-4de8-ba47-9730d0660235" />
 
-The Firmware should be pretty easy to set up, as this board is just a raspberry pi pico in a different format, there are also ports for your battery and speaker of choice, so do what you want wit those.
+# Steps for recreation:
+Get the pcb fabricated, and solder on the componenets. I would highly reccomend PCBA, but you could also hand solder it. Once you build it, you can flash code on it like an rp2040 devboard. I want to see how people use the key and audio, so you should try using it somehow!
