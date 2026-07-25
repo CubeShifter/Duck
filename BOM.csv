@@ -1,3 +1,5 @@
-Name,Part,Quantity,Link,Store,ID,Price
-Seeed Studio XIAO RP2040,MCU,1,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/102010428/14672129,DigiKey,102010428,$4.88
-Mini Oval Speaker with Short Wires
+Name,Usecase,Quantity,Price(USD),Link
+RP2040, Micrcontroller, 1, 0.99, https://www.lcsc.com/product-detail/C2040.html?s_z=n_q_t_rp2040&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=FVJcVF1UE1MNAwcCRlRfBgJeQlANUFIEQlJZA1UARFIxVlNeQ1hbVFBfRVNYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNdUFdXTldADxALGw%3D%3D
+YXC Crystal Oscillators X322512MSB4SI, Oscillator, 1, 0.48, https://www.lcsc.com/product-detail/C9002.html?s_z=n_q_C9002&globalKeyword=C9002
+Korean Hroparts Elec TYPE-C-31-M-12, USBC thingy, 1, 0.85, https://www.lcsc.com/product-detail/C165948.html?s_z=n_q_C165948&globalKeyword=C165948
+
